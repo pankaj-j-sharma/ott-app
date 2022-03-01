@@ -1,0 +1,1 @@
+<?php echo "Terms And Condition" ?>
